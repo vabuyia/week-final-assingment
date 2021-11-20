@@ -13,7 +13,7 @@ myForm.addEventListener('keyup', (e) => {
   };
 
   localStorage.setItem('formData', JSON.stringify(formData));
-})
+});
 
 const retrievedData = JSON.parse(localStorage.getItem('formData'));
 
