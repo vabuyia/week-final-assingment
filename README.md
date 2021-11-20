@@ -1,7 +1,7 @@
 # Portfolio:preserv data in the browser
 
-When the user changes the content of any input field, the data is saved to the local storage.
-When the user loads the page, if there is any data in the local storage the input fields are pre-filled with this data.
+-When the user changes the content of any input field, the data is saved to the local storage.
+-When the user loads the page, if there is any data in the local storage the input fields are pre-filled with this data.
 
 Project: Sneak peek: your portfolio.
 
