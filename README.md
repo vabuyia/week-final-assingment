@@ -28,6 +28,7 @@ Click [here](https://vabuyia.github.io/vabuya.github.io/) to go to my applicatio
 Built With
 HTML
 CSS
+Javascript
 Getting Started
 To get a local copy up and running follow these simple example steps.
 
