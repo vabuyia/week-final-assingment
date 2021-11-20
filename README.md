@@ -17,7 +17,7 @@ A responsive design
 
 ## Live Demo
 
-Click [here]() to go to my application deployment.
+Click [here](https://vabuyia.github.io/week-final-assingment/) to go to my application deployment.
 
 ## Authors
 
